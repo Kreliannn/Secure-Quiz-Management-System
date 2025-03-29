@@ -41,5 +41,13 @@ If a student **Alt+Tabs** or leaves the quiz window, the system automatically su
 <br>
 ## 📸 Teacher Section Preview  
 
+![Image](https://github.com/user-attachments/assets/ce07c545-db3c-4796-9ded-c0b6bf8a175e)
+
+![Image](https://github.com/user-attachments/assets/c6ec74dd-2593-4b2e-9771-fc59fe327f9a)
+
+![Image](https://github.com/user-attachments/assets/b93d7df6-d764-4d27-9415-ba60b5481905)
+
+![Image](https://github.com/user-attachments/assets/c62357f2-c553-4057-bf6d-967b6cc88efd)
+
 
 
