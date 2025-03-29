@@ -7,12 +7,12 @@ A **secure quiz-taking system** for teachers and students, designed to prevent c
 If a student **Alt+Tabs** or leaves the quiz window, the system automatically submits their quiz with a **cheating status**, which is visible to the teacher.  
 
 
-## ⚠️ Warning  
+## ⚠️ <span style="color:red">Warning</span>  
 
-🚨 **This repository is private and contains only the frontend code.**  
+🚨 <span style="color:red">**This repository is private and contains only the frontend code.**</span>  
 If you want access to the **full source code**, please message me on TikTok.  
 
-🔗 [Contact me on TikTok](your-tiktok-profile-link) 
+🔗 [Contact me on TikTok](https://www.tiktok.com/@krelq)  
 
 
 ## ✨ Features  
