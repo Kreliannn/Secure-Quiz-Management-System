@@ -9,7 +9,7 @@ If a student **Alt+Tabs** or leaves the quiz window, the system automatically su
 
 ## ⚠️ Warning  
 
-🚨 **This repository is private and contains only the frontend code.**  
+🚨 **The original repository is private and this repo contains only the frontend code.**  
 ❗ If you want access to the **full source code**, please message me on TikTok.  
 
 🔗 [Contact me on TikTok](https://www.tiktok.com/@krelq)  
